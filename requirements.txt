@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+spacy
+scrapy
+sqlalchemy
+scipy
+

@@ -6,4 +6,7 @@ spacy
 scrapy
 sqlalchemy
 scipy
-
+textacy
+dlib
+auto-sklearn
+scipy
